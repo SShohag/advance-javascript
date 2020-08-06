@@ -5,10 +5,10 @@ null
 NaN
 undefined
 false
-// emapty variable
+//emapty variable
 
 //truthy value
-// '0', " ", {}, [].
+//'0', " ", {}, [].
 
 let name ={};
 console.log(name);
