@@ -13,3 +13,11 @@ console.log(mobile.id);
 //try to find unknown value from arry
 const age = [25, 15, 16, 21];
 console.log(age[5]);
+
+const varit = undefined;
+if(varit){
+    console.log('is true');
+}
+else{
+    console.log('is false');
+}
